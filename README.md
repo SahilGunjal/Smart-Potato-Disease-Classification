@@ -35,7 +35,9 @@ Developed a robust potato disease classification system using artificial neural 
 ## How to Use
 
 1. **Clone the Repository:**
-   ```git clone https://github.com/SahilGunjal/Smart-Potato-Disease-Classification.git
+   ```
+   git clone https://github.com/SahilGunjal/Smart-Potato-Disease-Classification.git
+   
    ```
 
 2. **Navigate to the Project Directory:**
