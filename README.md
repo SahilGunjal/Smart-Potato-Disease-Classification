@@ -40,7 +40,7 @@ Developed a robust potato disease classification system using artificial neural 
 
 2. **Navigate to the Project Directory:**
    ```
-   cd potato-disease
+   cd Smart-Potato-Disease-Classification
    ```
 
 3. **Run the FastAPI Server:**
